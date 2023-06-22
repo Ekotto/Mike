@@ -1,0 +1,6 @@
+#Id,DestinationId,RatesTag,RoundingMethod,RoundingDecimals,MaxCost,MaxCostStrategy
+DR_1001_5C_PM,DST_1001,RT_5c_PM,*up,4,0,
+DR_1002_5C_PM,DST_1002,RT_5c_PM,*up,4,0,
+DR_1003_5C_PM,DST_1003,RT_1CNT,*up,4,0,
+DR_6001_10CNT,DST_6001,RT_10CNT,*up,4,0,
+DR_6002_10CNT,DST_6002,RT_1CNT_PER_SEC,*up,4,0,

@@ -1,0 +1,8 @@
+#Id,ConnectFee,Rate,RateUnit,RateIncrement,GroupIntervalStart
+RT_5c_PM,0,5,60s,1s,0s
+RT_10CNT,0,0.1,60s,60s,0s
+RT_1CNT,0,0.01,60s,60s,0s
+RT_1CNT_PER_SEC,0,0.01,1s,1s,0s
+
+
+
